@@ -1,3 +1,7 @@
+# 使用TS + TypeScript开发井字棋游戏
+
+预览地址：https://kuanglinfeng.github.io/tictactoe-game/
+
 # React + JavaScript 的问题
 
 1. 某个组件有哪些属性需要传递
