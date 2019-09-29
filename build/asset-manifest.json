@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tictactoe-game/static/css/main.08cb38d6.chunk.css",
+    "main.js": "/tictactoe-game/static/js/main.b2ba4f32.chunk.js",
+    "main.js.map": "/tictactoe-game/static/js/main.b2ba4f32.chunk.js.map",
+    "runtime-main.js": "/tictactoe-game/static/js/runtime-main.7c372091.js",
+    "runtime-main.js.map": "/tictactoe-game/static/js/runtime-main.7c372091.js.map",
+    "static/js/2.f353741e.chunk.js": "/tictactoe-game/static/js/2.f353741e.chunk.js",
+    "static/js/2.f353741e.chunk.js.map": "/tictactoe-game/static/js/2.f353741e.chunk.js.map",
+    "index.html": "/tictactoe-game/index.html",
+    "precache-manifest.ac2c04398f6c89366fa7afb1e162639c.js": "/tictactoe-game/precache-manifest.ac2c04398f6c89366fa7afb1e162639c.js",
+    "service-worker.js": "/tictactoe-game/service-worker.js",
+    "static/css/main.08cb38d6.chunk.css.map": "/tictactoe-game/static/css/main.08cb38d6.chunk.css.map"
+  }
+}

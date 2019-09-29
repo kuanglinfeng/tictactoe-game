@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    // 最终编译成的代码标准
+    "target": "es5",
+    // 库环境 默认的代码环境
+    // dom.iterable --> Symbol.iterator 迭代器，这里的配置是使dom节点可以被迭代，低版本浏览器浏览器中类数组还没有加迭代器
+    // esnext 写代码的标准
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    // 是否允许在ts代码里导入js
+    "allowJs": false,
+    // 是否跳过对声明文件的类型检查
+    "skipLibCheck": true,
+    // 使用es6的模块化来和非es6的模块化进行交互
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    // 是否使用严格模式
+    "strict": true,
+    // 导入文件是否区分文件大小写
+    "forceConsistentCasingInFileNames": true,
+    // 模块化的标准 esnext->最新版的es模块化标准 babel会对js进行统一降低版本为浏览器可以识别
+    "module": "esnext",
+    // 模块解析的方式  一般使用node
+    "moduleResolution": "node",
+    // 是否使用Json模块
+    "resolveJsonModule": true,
+    // 是不是把每一个文件当成一个模块
+    "isolatedModules": true,
+    // 不生成js文件，就在内存里完成编译
+    "noEmit": true,
+    // 解析jsx的方式
+    "jsx": "react"
+  },
+  "include": [
+    "src"
+  ]
+}
